@@ -1,5 +1,5 @@
 ---
-name: state-management-sharqiewicz
+name: state-management
 description: "Expert guidance for React state management using Zustand, React Query, React Context, and XState. Backed by TK-Dodo's articles and official docs. Triggers on: Zustand, React Query, TanStack Query, XState, server state, client state, state management, useQuery, useMutation, context, store, staleTime, queryKey, invalidateQueries, mutations, optimistic updates, derived state, useEffect sync."
 ---
 
